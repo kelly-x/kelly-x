@@ -5,7 +5,7 @@ module.exports = {
   siteShortTitle: "Kelly Xu", // Used as logo text in header, footer, and splash screen
   siteDescription:
   "All the world is a laboratory to the inquiring mind.",
-  siteUrl: "https://github.com/kelly-x/kelly-xu-portfolio.git",
+  siteUrl: "https://github.com/kelly-x/kelly-x.git",
   siteLanguage: "en_US",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
   seoTitleSuffix: "Kelly's Personal Portfolio", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"

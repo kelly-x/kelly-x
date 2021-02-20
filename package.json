@@ -1,5 +1,5 @@
 {
-  "name": "kelly-xu-portfolio.git",
+  "name": "kelly-x.git",
   "description": "Kelly's Personal Wesbite",
   "version": "1.0.0",
   "author": "Kelly Xu <mail@kelly.xu@queensu.ca>",
@@ -91,9 +91,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kelly-x/kelly-xu-portfolio.git"
+    "url": "https://github.com/kelly-x/kelly-x.git"
   },
   "bugs": {
-    "url": "https://github.com/kelly-x/kelly-xu-portfolio/issues"
+    "url": "https://github.com/kelly-x/kelly-x/issues"
   }
 }
